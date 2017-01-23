@@ -19,3 +19,14 @@ earlier became much bigger because I didn't fully fix the problem, just moreover
 Along with that, another coding issue I run into that was mentionted in the reading was knowing when to stop.  
 There are only so many improvements to make on a project before the code becomes more or less "spaghetti code" if
 you don't stop for a minute and take a step back.  
+
+# 3rd Blog Post
+
+The most interesting part of the reading in this chapter for me was the error detection methods they discussed,
+mostly being the analogy they used with tracer bullets.  If a certain part of your code is working, you can use
+a test in there as your "tracer bullet" to show that the program is hitting that part of the code and executing
+it successfully.  I like the idea of it better than prototyping because it seems more complete, checking continually
+even as part of your final project, rather than just being a small part of your project that you then add to the
+whole if it works, as you might do in prototyping.
+
+
