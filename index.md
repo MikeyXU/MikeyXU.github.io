@@ -29,4 +29,12 @@ it successfully.  I like the idea of it better than prototyping because it seems
 even as part of your final project, rather than just being a small part of your project that you then add to the
 whole if it works, as you might do in prototyping.
 
+# Assignment 6  (Chapter 2 of Mythical Man Month Book)
+
+The reading in this book hit home hard when I realized how much time I spent coding and testing was different.  
+The text recommended that at most 1/6 of your time was to be spent coding, whereas 90% of my time is spent coding.
+Reading the chapter makes me realize how much I should actually be testing to ensure my code works rather than just
+keep writing more code.  It also makes me realize how badly we have failed in project assingments in the past by 
+attempting to just throw more man hours at a task rathe than restructuring and reorganizing.
+
 
