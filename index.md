@@ -37,4 +37,47 @@ Reading the chapter makes me realize how much I should actually be testing to en
 keep writing more code.  It also makes me realize how badly we have failed in project assingments in the past by 
 attempting to just throw more man hours at a task rathe than restructuring and reorganizing.
 
+# Assignment 7 (Chapter 4 Pragmatic Programmer)
+
+This chapter explores the use of the DBC, or Design by Contract, methodology for writing/delivering code.  
+It places emphasis on making sure you give exactly what you promise to deliver, nothing more, and nothing less.
+This useful idea can easily help to make sure the requirements are clear and concise, and everything you do
+is in clear parallel with the requirements.  Statements like "requires" could help immensely rather than dedicating
+entire branches of a method to deal with an unwanted parameter passed in. It also for the first time ever made me 
+appreciate Java coding because of the way in which can use "finally" in order to collect/destroy resources, in order
+for the program to run better because the resources wont constantly be running.
+
+# Assignment 8 (Chapter 5 Pragmatic Programmer)
+
+Coupling made me realize why I spent so long changing various methods in projects during CS2, because I 
+would have 3 "get" methods in a row like getUser().returnAmmo().useBomb(), and other similar constructs.
+I would make one change in a class, and suddenly the entire program halts. The chapter also called attention
+to how when we code we have a tendency to write temporal coupling, such as A has to be called before B.  This
+is one program I actually have experience abusing on older Javascript games, where I could stack menus in order
+to delay time in games or access unintended features.  The analogy of making a drink also helped make clear in
+my mind how this idea of workflow is identical to pipelining in the computer hardware, instead of a single-cycle 
+datapath.  Concurrency really just implies parallel programming in order to run faster/efficiently.
+
+# Assignment 9 (Chapter 6 Pragmatic Programmer)
+
+Programming deliberately hit home very quickly.  Every single point made here I think I have done at some point,
+whether it be trying to write code around a pre-written class, or using programs and tech I don't understand
+until I no longer have an understanding of the errors being thrown.  The section on runtime actually tremendously
+helped me understand how to predict based on what is written in the code.  Refactoring brings me back to how I
+realize how much I should change badly written classes, rather than trying to write new classes and methods 
+to use the badly written classes.  I know that I can become defensive of my code, and refuse to change, but 
+this chapter helped me realize how Im basically tripping myself up by doing that. Unit tests are also the bane of
+my existence, because I suck at doing them, but I recognize how necessary they really are.
+
+# Assignment 10 (Chapter 7 Pragmatic Programmer)
+
+Preventing requirements from creeping up on us, might as well be called the sneak heart-attack for me.  When I 
+work on a program, I like to make sure whatever I'm currently doing is as well-done as it can be.  40 hours of
+work later and I've programmed a spaceship that can move with wrap around the screen, fire bullets, targeting 
+missiles, and bombs, and suddenly the project is due the next day and I have 0 enemies and I'm screwed.  Happens
+to all of us, right?  This book has taught me all about how I can prevent this, whether it be setting a schedule,
+writing better classes/methods so I don't have to work with horrible older methods, etc.  I hope to be able to 
+use these skills in my next workflow to show that I can do better than I have recently.
+
+
 
